@@ -95,3 +95,9 @@ background-color:
     #040609;
 
 }
+
+.fondo-negro {
+    background-color: 
+    black !important;
+    font-family: 'Oswald', sans-serif !important;
+}   
